@@ -92,7 +92,7 @@
 
 .gpt3__header-image{
     flex:1;
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: center;
 }
@@ -116,7 +116,7 @@
     }
     .gpt3__header p{
         font-size: 16px;
-        line-height: 24px;
+        line-height: 24px; 
     }
     .gpt3__header-content__people{
         flex-direction: column;

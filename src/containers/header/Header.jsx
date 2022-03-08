@@ -20,7 +20,7 @@ const Header = () => {
       </div>
       <div class="gpt3__header-image">
           <img src={ai} alt="ai" />
-        </div>
+      </div>
     </div>
   )  
 };
